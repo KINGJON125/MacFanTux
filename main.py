@@ -274,7 +274,7 @@ class FanControl:
     def show_info(self):
         messagebox.showinfo(
             "About",
-            "Mac Fan Control v2.0\n\n"
+            "Mac Fan Control v0.1\n\n"
             "Features:\n"
             "• Custom fan speed control\n"
             "• Temperature monitoring\n"
