@@ -50,7 +50,11 @@ pip3 install psutil
 - The app provides sliders to control fan speeds.
 - A **"FULL BLAST!!!"** button sets fans to maximum speed.
 - Temperature sensors are displayed on the right side of the interface.
-
+- how to run? 
+```
+sudo python3 main.py
+```
+as simple as that!
 ## ⚠ Common Issues
 - **Sleep Mode Issue:** When the Mac goes to sleep, fan control settings may reset automatically.
 
