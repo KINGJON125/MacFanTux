@@ -12,7 +12,7 @@ MacFanTux is a user-friendly GUI application for controlling MacBook fans on Lin
 I switched to Linux and struggled to find a GUI-based fan control app similar to [Macs Fan Control](https://crystalidea.com/macs-fan-control) for Linux. Since none existed, I created MacFanTux!
 
 ## 💻 Supported Models
-Currently, MacFanTux has been tested only on the **Late 2011 MacBook Pro (MacBookPro8,2)**. mainly every intel macbook.
+Tested on the **Late 2011 MacBook Pro (MacBookPro8,2)** and may work with every intel macbook.
 
 ## 📦 Installation (Will Improve in v1.0)
 ### Prerequisites
